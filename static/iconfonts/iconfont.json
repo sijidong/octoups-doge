@@ -1,0 +1,72 @@
+{
+  "id": "2924461",
+  "name": "doge",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7954334",
+      "name": "对勾_块",
+      "font_class": "duigou_kuai",
+      "unicode": "ed1d",
+      "unicode_decimal": 60701
+    },
+    {
+      "icon_id": "1166549",
+      "name": "减号",
+      "font_class": "jianhao",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "691112",
+      "name": "回到顶部",
+      "font_class": "huidaodingbu",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "704799",
+      "name": "telegram",
+      "font_class": "telegram1",
+      "unicode": "eaf9",
+      "unicode_decimal": 60153
+    },
+    {
+      "icon_id": "5387519",
+      "name": "对号",
+      "font_class": "duihao",
+      "unicode": "eaf1",
+      "unicode_decimal": 60145
+    },
+    {
+      "icon_id": "22227215",
+      "name": "添加设备",
+      "font_class": "daochu1024-29",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "1262237",
+      "name": "telegram",
+      "font_class": "telegram",
+      "unicode": "e715",
+      "unicode_decimal": 59157
+    },
+    {
+      "icon_id": "4936985",
+      "name": "twitter",
+      "font_class": "twitter",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "11982059",
+      "name": "shopping",
+      "font_class": "shopping",
+      "unicode": "e999",
+      "unicode_decimal": 59801
+    }
+  ]
+}
